@@ -5,7 +5,7 @@ An end-to-end Business Intelligence solution for a global B2C Fitness & Wellness
 ## Dashboard Preview
 
 ### 1. Executive Revenue & Subscription Growth
-![Executive Revenue]Fitness_Exec_Dashboard_1.png)
+![Executive Revenue](Fitness_Exec_Dashboard_1.png)
 
 ### 2. User Engagement & Retention Analytics
 ![Engagement Analytics](Fitness_Exec_Dashboard_2.png)
